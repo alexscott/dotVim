@@ -1,7 +1,8 @@
 source ~/.vim/vimrc_alphalink
 set noignorecase
 set foldmethod=syntax
-set foldlevel=100
+set nofoldenable
+"set foldlevel=100
 let loaded_matchit = 1
 
 set tags=~/.tags
