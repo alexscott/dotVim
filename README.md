@@ -1,0 +1,4 @@
+dotGit
+======
+
+my .git
