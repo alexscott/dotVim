@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/a.moutot/projects/sigal/core/src/main/java/com/initsys/sigal/protocol'
+let g:netrw_dirhist_2='/Users/a.moutot/svnalphlconf/modules/voip_2_1/templates/sigal'
+let g:netrw_dirhist_3='/Users/a.moutot/projects/prov/prov-hss/lib'
+let g:netrw_dirhist_4='/Users/a.moutot/svnalphlconf/modules/erp'
+let g:netrw_dirhist_5='/Users/a.moutot/projects/sigal'
+let g:netrw_dirhist_6='/Users/a.moutot/projects/sigal/poms'
+let g:netrw_dirhist_7='/Users/a.moutot/projects/sigal/agent/src/test/java/com/initsys/sigal/agent/agi'
+let g:netrw_dirhist_8='/Users/a.moutot/projects/sigal/agent/src/test/java/com/initsys/sigal/agent/agi/mrf4'
