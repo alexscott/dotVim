@@ -3,7 +3,7 @@ set noignorecase
 set foldmethod=syntax
 set nofoldenable
 "set foldlevel=100
-let loaded_matchit = 1
+"let loaded_matchit = 1
 
 set tags=~/.tags
 let java_highlight_all=1
