@@ -1,4 +1,4 @@
-dotGit
+dotVim
 ======
 
 my .vim
